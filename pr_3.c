@@ -8,7 +8,7 @@ printf("enter element:\n");
 for(int  i= 0 ; i< n ; i++){
     scanf("%d",&a[i]);
 }
-printf("bubble sort:\n");
+printf("insertion  sort:\n");
 printf("unsort:\n");
 for(int  i= 0 ; i< n ; i++){
     printf("%d\t",a[i]);
